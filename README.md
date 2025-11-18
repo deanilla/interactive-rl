@@ -1,7 +1,7 @@
 # Interactive RL
 
 This repo is a collection of Jupyter notebooks I’m building while learning reinforcement learning.
-It serves both as a backup of my real-time experiments and a public learning resource.
+It serves both as a backup of real-time experiments in my own study and a public learning resource.
 
 These notebooks are written in Python and focus on experimenting with common RL concepts and algorithms alongside the theoretical RL learning process.
 They’re not polished or complete — just a way to test ideas, explore theory, and keep track of progress.
